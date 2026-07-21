@@ -1,0 +1,99 @@
+{
+  "version": "2.1.0",
+  "$schema": "http://json.schemastore.org/sarif-2.1.0-rtm.5",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "ESLint",
+          "informationUri": "https://eslint.org",
+          "rules": [],
+          "version": "9.39.5"
+        }
+      },
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/eslint.config.mjs"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/App.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/App.test.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/__tests__/FirstTest.test.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/__tests__/TestWithMockData.test.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/__tests__/TestWithMockDataWithBranching.test.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/__tests__/TestingAPICalls.test.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/__tests__/TestingStateChange.test.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/components/FirstTest.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/components/TestWithMockData.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/components/TestWithMockDataWithBranching.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/components/TestingAPICalls.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/components/TestingStateChange.jsx"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/index.js"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/setupTests.js"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/chohk/OneDrive/Desktop/ICT2216%20-%20Secure%20Software%20Development/lab/Lab%208/react-unit-testing/src/utils/services.js"
+          }
+        }
+      ],
+      "results": []
+    }
+  ]
+}
